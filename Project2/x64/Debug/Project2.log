@@ -1,0 +1,5 @@
+﻿  Project2.cpp
+D:\Abo-Hadhood\Course 5\Project2\Project2\Project2.cpp(106,1): warning C4715: 'CalcAnswer': not all control paths return a value
+D:\Abo-Hadhood\Course 5\Project2\Project2\Project2.cpp(166,1): warning C4715: 'PrintQuestions': not all control paths return a value
+D:\Abo-Hadhood\Course 5\Project2\Project2\Project2.cpp(140,1): warning C4715: 'GetEquation': not all control paths return a value
+  Project2.vcxproj -> D:\Abo-Hadhood\Course 5\Project2\x64\Debug\Project2.exe
